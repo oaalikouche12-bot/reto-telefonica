@@ -1,4 +1,4 @@
-# reto-telefonica
+# # Fake Voice Detection using AI
 
 Academic project developed for the **Artificial Intelligence Challenge** course of the **MSc in Data Analytics for Business**.
 
